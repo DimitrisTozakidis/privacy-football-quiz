@@ -1,4 +1,4 @@
-# privacy-football-quiz
+# privacy-fut-quiz
 
 1. Ποιοι είμαστε
 
