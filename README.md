@@ -3,7 +3,7 @@
 1. Ποιοι είμαστε
 
 Υπεύθυνος Επεξεργασίας: Dimitrios Tozakidis
-Email επικοινωνίας: footballquizapp123@gmail.com
+Email επικοινωνίας: info@futquizapp.com
 Εφαρμογή: Fut Quiz 
 
 2. Ποια δεδομένα συλλέγουμε
@@ -32,4 +32,4 @@ Email επικοινωνίας: footballquizapp123@gmail.com
 
 8. Επικοινωνία
 
-Για ερωτήσεις σχετικά με την ιδιωτικότητα, επικοινωνήστε στο footballquizapp123@gmail.com.
+Για ερωτήσεις σχετικά με την ιδιωτικότητα, επικοινωνήστε στο 	info@futquizapp.com.
